@@ -101,7 +101,7 @@ body{
 }
 
 /* ══ NAV ═══════════════════════════════════════════════════════════ */
-nav{
+.site-nav{
   position:fixed;top:0;left:0;right:0;z-index:300;height:64px;
   background:var(--nav-bg);
   backdrop-filter:blur(28px) saturate(180%);
