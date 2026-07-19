@@ -65,3 +65,16 @@ Two things to complete before going live:
 ---
 
 > Built with HTML & CSS. Deployed on GitHub Pages.
+
+---
+
+## Developer Console
+
+Edit this site's content and résumé without touching code, from **`admin.html`**:
+
+1. Open `Naman-Bhatt2000.github.io/portfolio/admin.html`
+2. Sign in with a GitHub **fine-grained token** (Contents: Read & write on the `portfolio` repo)
+3. Edit any section — Hero, About, Skills, Experience, Certifications, Contact, Site/SEO — with a **live preview**, then **Save & publish** (commits `content.json`; live in ~1–2 min)
+4. **Resume** → upload a new PDF to replace the download
+
+The public site (`index.html`) hydrates from `content.json` via `assets/js/site.js`; static markup is the no-JS fallback.

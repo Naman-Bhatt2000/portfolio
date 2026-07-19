@@ -1,0 +1,163 @@
+{
+  "meta": {
+    "title": "Naman Bhatt · Data & AI Developer",
+    "description": "Naman Bhatt — Data Engineer & AI Developer. Snowflake, Databricks, RAG-based AI agents, data quality frameworks."
+  },
+  "brand": {
+    "logo": "naman bhatt."
+  },
+  "hero": {
+    "availability": "Associate IT Developer · Data Engineering & AI · Medtronic",
+    "headline1": "Naman",
+    "headline2": "Bhatt",
+    "roles": ["Data Engineer", "AI Developer", "RAG Systems Builder", "Snowflake & Databricks", "Agentic AI Developer"],
+    "bio": "Associate IT Developer at Medtronic with hands-on experience across the full data engineering lifecycle — from ingestion and curation to production-grade data quality frameworks. Skilled in building scalable pipelines on Snowflake and Databricks, and applying RAG-based AI agents to deliver governed, natural-language access to enterprise data.",
+    "stats": [
+      { "value": "600+", "label": "users served" },
+      { "value": "15", "label": "countries · EMEA" },
+      { "value": "75%", "label": "agent adoption" }
+    ],
+    "photo": "images/Photo.jpeg",
+    "photoBadges": [
+      { "value": "600+", "label": "Users" },
+      { "value": "15", "label": "Countries" },
+      { "value": "CTO", "label": "Award" }
+    ]
+  },
+  "social": {
+    "linkedin": "https://www.linkedin.com/in/namanbhatt2000",
+    "github": "https://github.com/Naman-Bhatt2000",
+    "email": "viraajbhatt.1998@gmail.com"
+  },
+  "resume": {
+    "file": "Naman_Bhatt_Resume.pdf"
+  },
+  "about": {
+    "label": "about me",
+    "headingPlain": "Data Engineer &",
+    "headingAccent": "AI Developer",
+    "image": "images/Photo.jpeg",
+    "badges": [
+      { "icon": "location-dot", "text": "Hyderabad" },
+      { "icon": "wifi", "text": "Remote-friendly" }
+    ],
+    "paragraphs": [
+      "Associate IT Developer at Medtronic with an M.Tech in Artificial Intelligence & Machine Learning. I work across the full data engineering lifecycle — building scalable pipelines on Snowflake and Databricks, and production-grade data quality frameworks that keep enterprise data reliable and governed.",
+      "Passionate about combining data engineering rigor with applied AI — designing RAG-based agents that give business teams natural-language access to trusted data. Proven track record of resolving production issues, driving cross-functional adoption, and improving platform reliability across large enterprise data hubs."
+    ],
+    "chips": ["Snowflake", "Databricks", "dbt", "Python", "SQL", "RAG", "Vector Search", "Agentic AI"]
+  },
+  "skills": {
+    "label": "tech stack",
+    "heading": "Skills & Tools",
+    "sub": "From raw source systems to governed, analytics-ready platforms — the full data & AI toolkit.",
+    "groups": [
+      { "icon": "database", "color": "teal", "title": "Data & Cloud Platforms", "pills": ["Snowflake", "Databricks", "dbt", "OCI", "Salesforce", "MongoDB", "Data Pipelines", "DAG Orchestration"] },
+      { "icon": "robot", "color": "cyan", "title": "AI & Generative AI", "pills": ["Generative AI", "RAG", "Conversational AI", "Agentic AI", "Vector Search", "Machine Learning", "Deep Learning"] },
+      { "icon": "code", "color": "green", "title": "Languages & Tools", "pills": ["Python", "SQL", "C", "C++", "Java", "Git", "Streamlit"] },
+      { "icon": "shield-halved", "color": "amber", "title": "Data Quality & Governance", "pills": ["DQ Frameworks", "Ingestion", "Curation", "Governance", "Dev/Test/Stage/Prod", "Monitoring"] }
+    ],
+    "logos": [
+      { "label": "Snowflake", "img": "images/snowflake.svg", "url": "https://www.snowflake.com/" },
+      { "label": "Databricks", "img": "images/databricks.svg", "url": "https://www.databricks.com/" },
+      { "label": "dbt", "img": "images/dbt.svg", "url": "https://www.getdbt.com/" },
+      { "label": "Salesforce", "img": "images/salesforce.svg", "url": "https://www.salesforce.com/" },
+      { "label": "OCI", "img": "images/oracle.svg", "url": "https://www.oracle.com/cloud/" },
+      { "label": "Python", "img": "images/python.png", "url": "https://www.python.org/" },
+      { "label": "SQL", "img": "images/sql.png", "url": "https://www.microsoft.com/en-us/sql-server" },
+      { "label": "MongoDB", "img": "images/mongodb.png", "url": "https://www.mongodb.com/" },
+      { "label": "Git", "img": "images/git.svg", "url": "https://git-scm.com/" },
+      { "label": "Streamlit", "img": "images/streamlit.png", "url": "https://www.streamlit.io/" }
+    ]
+  },
+  "experience": {
+    "label": "experience",
+    "heading": "Work Experience",
+    "sub": "Building enterprise data platforms and AI agents at Medtronic.",
+    "items": [
+      {
+        "type": "work",
+        "role": "Associate IT Developer",
+        "org": "Medtronic",
+        "date": "Jul 2025 — Present",
+        "location": "Hyderabad, India",
+        "bullets": [
+          "Led migration and modernization of the enterprise DIGIC Data Quality framework from Snowflake to Databricks, ensuring continuity of critical controls on a scalable, cloud-native architecture.",
+          "Built a RAG-based Enterprise Market Share Agent in Snowflake for the EMEA RLM team, enabling natural-language access to governed data across 15 countries, 4,000+ accounts and 600+ users (75%+ adoption).",
+          "Built reusable frameworks for automated data quality onboarding across new tables and data hubs — reducing manual effort, improving governance and ensuring reliable Dev/Test/Stage/Prod deployments.",
+          "Awarded a CTO Recognition Award for outstanding contribution to data engineering and AI-driven innovation."
+        ],
+        "tags": ["Snowflake", "Databricks", "RAG", "Data Quality", "Agentic AI"]
+      },
+      {
+        "type": "work",
+        "role": "IT Intern",
+        "org": "Medtronic",
+        "date": "Nov 2024 — Jul 2025",
+        "location": "Hyderabad, India",
+        "bullets": [
+          "Onboarded USCV, N360 and MedSurg Salesforce instances to Snowflake and built curation modules enabling role-based reporting for the Global Commercial Team and CRM stakeholders.",
+          "Drove ingestion and curation initiatives across enterprise data hubs (Definitive Healthcare, Medidata, MedSurg, SFN360, Eloqua, SAP, Salesforce), supporting user groups from small teams to 500+ users."
+        ],
+        "tags": ["Snowflake", "Salesforce", "Curation", "SQL"]
+      },
+      {
+        "type": "work",
+        "role": "Intern",
+        "org": "UP Police 112",
+        "date": "2019",
+        "location": "Uttar Pradesh, India",
+        "bullets": [
+          "Optimized PRV dispatch operations and supported Action Taken Report (ATR) submissions to the District Control Room."
+        ],
+        "tags": ["Operations", "Dispatch", "Reporting"]
+      },
+      {
+        "type": "education",
+        "role": "M.Tech · Artificial Intelligence / Machine Learning",
+        "org": "Vellore Institute of Technology (VIT)",
+        "date": "Vellore, India",
+        "location": "GPA: 8.37",
+        "bullets": [],
+        "tags": ["GPA 8.37"]
+      },
+      {
+        "type": "education",
+        "role": "B.Tech · Electronics & Communication",
+        "org": "Birla Institute of Applied Sciences",
+        "date": "India",
+        "location": "Grade: 75.66%",
+        "bullets": [],
+        "tags": ["75.66%"]
+      }
+    ]
+  },
+  "certifications": {
+    "label": "credentials",
+    "heading": "Certifications",
+    "sub": "Cloud, GenAI and data-engineering credentials backing the work.",
+    "items": [
+      { "icon": "cloud", "color": "teal", "title": "Oracle Cloud Infrastructure", "pills": ["2025 Certified Generative AI Professional", "Certified AI Foundations Associate"] },
+      { "icon": "database", "color": "cyan", "title": "Data Engineering", "pills": ["Databricks Fundamentals", "dbt For Data Engineers"] },
+      { "icon": "microchip", "color": "green", "title": "Data Science & ML", "pills": ["Python Libraries for Data Science", "StreamSets ML Platform & Intel oneAPI"] },
+      { "icon": "trophy", "color": "amber", "title": "Recognition", "pills": ["Medtronic CTO Recognition Award", "AI-BI Summit · Participant"] }
+    ]
+  },
+  "cta": {
+    "badge": "Open to opportunities",
+    "title1": "Let's turn enterprise data",
+    "title2": "into governed intelligence",
+    "sub": "Data engineering · AI agents · Analytics platforms · RAG systems — full-time roles and collaborations."
+  },
+  "contact": {
+    "label": "contact",
+    "heading": "Get in Touch",
+    "sub": "Have a role or project in mind? Fill in the form — I'll reply within 24 hours.",
+    "intro": "Open to full-time data engineering & AI roles, contract work, consulting and research collaborations.",
+    "phone": "+91 8979396172",
+    "location": "Hyderabad · Open to remote"
+  },
+  "footer": {
+    "copyright": "© 2026 Naman Bhatt · Data Engineer & AI Developer"
+  }
+}
